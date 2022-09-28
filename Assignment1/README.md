@@ -3,6 +3,8 @@
 ## Assignment 1: Heuristic Evaluation
 
 https://www.thegef.org/
+https://www.theconsumergoodsforum.com/?s=public+trasnit
+https://www.unep.org/resources?keywords=forest
 
 Hanna Co | DH110 | Fall 2022
 
