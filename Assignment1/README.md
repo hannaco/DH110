@@ -2,7 +2,9 @@
 
 ## Assignment 1: Heuristic Evaluation
 
-Emily Dong | DH110 | Spring 2021
+https://www.thegef.org/
+
+Hanna Co | DH110 | Fall 2022
 
 ### About the project
 
