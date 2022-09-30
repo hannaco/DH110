@@ -159,7 +159,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * There is no indication that you are on the home page, as you navigate to it by clicking the GEF logo in the upper left. There is no other way to navigate to the home page. (1)
 
 <p align="center">
-  <img src="gef1a.png" alt="GEF Navigation" width="350px"/>
+  <img src="gef1a.png" alt="GEF Navigation" width="500px"/>
 </p>
 
 > *Recommendation: Add home as a navigation bar item, and add the same highlighting as the other navigation bar options when the user is on that particular page.*
@@ -167,7 +167,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * They have an interactive chat on the bottom right that allows the user to ask for help. When the user hovers over the text box, the cursor doesn't change, and there is no other indication that the user can start typing their query. (2)
 
 <p align="center">
-  <img src="gef1b.png" alt="GEF Chat" width="500px"/>
+  <img src="gef1b.png" alt="GEF Chat" width="350px"/>
 </p>
 
 > *Recommendation: Change the user's cursor when they hover, and have some indication that the user can start typing.*
@@ -207,7 +207,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * Similarly, the search fields are misaligned, which doesn't affect usability, but doesn't look good. (1)
 
 <p align="center">
-  <img src="./gef4c.png" alt="GEF Misaligned Search"/>
+  <img src="./gef4c.png" alt="GEF Misaligned Search" width="500px"/>
 </p>
 
 > *Recommendation: Align all the fields and buttons horizontally.*
@@ -242,7 +242,8 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * A lot of navigation is redundant, as the page has the same navigation options as the menus. (2)
 
 <p align="center">
-  <img src="./gef8.png" alt="GEF Search"/>
+  <img src="./gef8a.png" alt="GEF Navigation 1" width="500px" />
+  <img src="./gef8b.png" alt="GEF Navigation 2" width="500px"/>
 </p>
 
 > *Recommendation: Either remove the options from the navigation bar or from the page itself to remove redundancy.*
