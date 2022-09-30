@@ -66,7 +66,7 @@ Ratings are displayed in parentheses after each usability issue.
 * On some of the links in the navigation bar, it's not clear to the user that clicking the option will open a new tab. In the image below, clicking on UN Environment Assembly, redirects the user to a different webpage, which can make the user feel out of control. (2)
 
 <p align="center">
-  <img src="./unep3.png" alt="UNEP Navigation" width = "300px"/>
+  <img src="./unep3.png" alt="UNEP Navigation" width = "500px"/>
 </p>
 
 > *Recommendation: There is a commonly used icon to indicate that the link opens in a new tab, which should be used to make that clearer to the user.*
@@ -85,7 +85,7 @@ Ratings are displayed in parentheses after each usability issue.
 * The search does not support suggestions, making it prone to typos. Additionally, the search does not return similar results, which can be problematic if the user does not know how to spell a word or doesn't notice the type. (3)
 
 <p align="center">
-  <img src="./unep5.png" alt="UNEP Search" width="300px"/>
+  <img src="./unep5.png" alt="UNEP Search" width="500px"/>
 </p>
 
 > *Recommendation: We can either suggest results as the user types, or if the word is close in spelling to another commonly searched word, we can return results for that word as well, similar to what Google does.*
@@ -107,7 +107,7 @@ Ratings are displayed in parentheses after each usability issue.
 * The image carousel shown below is unintuitive to use, because clicking the left button scrolls the images to the right, and vice versa. (3)
 
 <p align="center">
-  <img src="./unep7b.png" alt="UNEP Image Carousel" width="300px"/>
+  <img src="./unep7b.png" alt="UNEP Image Carousel" width="500px"/>
 </p>
 
 > *Recommendation: Make it so that the button direction matches the scroll direction, which is more intuitive.*
@@ -116,7 +116,7 @@ Ratings are displayed in parentheses after each usability issue.
 * The footer is very long and packed with information, as is the header. It is very overwhelming to look at, especially when the header and footer tend to be more simple and concise on other sites. (2)
 
 <p align="center">
-  <img src="./unep8a.png" alt="UNEP Footer" width="300px"/>
+  <img src="./unep8a.png" alt="UNEP Footer" width="500px"/>
 </p>
 
 > *Recommendation: A lot of this information can be rearranged to make the design more minimalistic and less overwhelming. The footer in particular should be reduced to just contact and copyright information, instead of being another navigation tool.*
@@ -124,16 +124,16 @@ Ratings are displayed in parentheses after each usability issue.
 * The site essentially has two navigation bars, which is unnecessary and just causes more confusion for the user. (3)
 
 <p align="center">
-  <img src="./unep8b.png" alt="UNEP Footer" width="300px"/>
+  <img src="./unep8b.png" alt="UNEP Footer" width="500px"/>
 </p>
 
 > *Recommendation: Consolidate the information from both of the navigation bars to minimize user confusion.*
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 * To subscribe to their newsletter, it requires the user's email address. However, you are able to submit the form with invalid inputs, and the user is never informed. (3)
-* 
+
 <p align="center">
-  <img src="./unep9.png" alt="UNEP Subscrie" width="300px"/>
+  <img src="./unep9.png" alt="UNEP Subscrie" width="500px"/>
 </p>
 
 > *Recommendation: The site should perform form validation and display error messages if required fields are missing or have invalid inputs.*
@@ -148,47 +148,77 @@ Ratings are displayed in parentheses after each usability issue.
 This site is incredibly information-heavy, and despite having a good balance of images and well-spaced content, it still easily overwhelms the viewer. Its main issue is that the header, footer, and menus contain too much information, which leaves a lot of room for user error. Other than that, it has some minor issues regarding efficiency, consistency, etc.
 
 
-## Website 2: [Chinatown Service Center (CSC)](https://www.cscla.org/)
+## Website 2: [Global Environment Facility](https://www.thegef.org/)
 
 ### About
-[Chinatown Service Center (CSC)](https://www.cscla.org/) is a community-based Chinese-American health and human services organization that advocates for and provides services to immigrants and other communities. CSC's resources, including a Community Health Center that provides comprehensive healthcare, dental services, and behavioral services, are available in various Chinese dialects like Cantonese, Mandarin, Toishan, and Chiu Jou, as well as other languages like Vietnamese and Spanish.
-
-My goal is to make their website much more usable, especially for primary users of CSC's services, including low-income, non-English speaking, and elderly users.
+[GEF](https://www.thegef.org/) stands for Global Environment Facility, and funds biodiversity and conservation projects across the globe. This site gives insight into who GEF is, and the types of problems they address. The user is also able to take a look at the kinds of projects they work with, and get updates through their 'Newsroom'.
 
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* When a user hovers over the top navigation menu, only the "Home" button changes color. The rest of the menu items do not provide color feedback, and simply displays the dropdown for each. Furthermore, it takes a while to load each dropdown at times. Users would have difficulty understanding whether the website is responding to their movement or clicks. There is, however, a color change to help the user recognize the page they are currently on. (3)
+* There is no indication that you are on the home page, as you navigate to it by clicking the GEF logo in the upper left. There is no other way to navigate to the home page. (1)
 
 <p align="center">
-  <img src="../Images/nav-services.PNG" alt="Navigation Menu, Services" width="350px"/>
+  <img src="gef1a.png" alt="GEF Navigation" width="350px"/>
 </p>
 
-> *Recommendation: Make sure that there is some kind of feedback (e.g. color change) when the cursor hovers over each menu item.*
+> *Recommendation: Add home as a navigation bar item, and add the same highlighting as the other navigation bar options when the user is on that particular page.*
+
+* They have an interactive chat on the bottom right that allows the user to ask for help. When the user hovers over the text box, the cursor doesn't change, and there is no other indication that the user can start typing their query. (2)
+
+<p align="center">
+  <img src="gef1b.png" alt="GEF Chat" width="350px"/>
+</p>
+
+> *Recommendation: Change the user's cursor when they hover, and have some indication that the user can start typing.*
 
 #### 2. Match Between System and the Real World
-* Some of the icons for the Community Health Center page do not entirely match our perception for each category. The happy face doesn't really reflect Behavioral Health and the Medical Clinic icon just looks like a house (the medical cross is very small). The tooth is also difficult to see when Dental Clinic is selected (and inconsistent with the other icons). (1)
+* A lot of the options in the sub-menus have similar meanings, such as the one shown below. This can confuse users, and they may not know which one to navigate to. (3)
 
 <p align="center">
-  <img src="../Images/community-health-center-icons.PNG" alt="Community Health Center icons"/>
+  <img src="gef2.png" alt="GEF Sub-Menu" width="350px"/>
 </p>
 
-*Recommendation: Use more literal and commonly accepted icons for the Behavioral Health and Medical Clinic icons (see examples [here](https://thenounproject.com/term/mental-health/3306335/) and [here](https://thenounproject.com/search/?q=medical&i=2468231)). Make sure icon styles are consistent as well.*
+*Recommendation: Remove the options that have similar meanings, such as Newsletter and News.*
 
 #### 3. User Control and Freedom
-* The image carousel on the homepage moves very slowly and also responds to clicks very slowly, so users are surprised when they actually animate. It can be frustrating if users want to look through the gallery at their pace. (3)
-* The image carousel on the Community Health Center page auto-forwards and moves much too quickly, to the point that clicking the small arrow controls doesn't allow the user to view the image they want to see (unless they realize they can click the image to see it in full screen), which is very frustrating. The carousel looks almost like an advertisement, which means it will likely be ignored. (3)
-
-> *Recommendation: Test users to see what the right timing for carousels would be. There should be enough time for users to read the text and process the information on each image. Use bigger arrows so that users can easily click them, and make sure the carousel is responsive to clicks. Add a visual indicator to show where the user is in the image gallery.*
-
-#### 4. Consistency and Standards
-* The top navigation menu is not consistent with normal webpages, which makes it difficult to use and grow accustomed to. (3)
+* The site does not have fast response time, and as a result, the menus often all appear at the time time, especially when the user is looking at them very fast. (3)
 
 <p align="center">
-  <img src="../Images/nav-bar.PNG" alt="Top Navigation Menu"/>
+  <img src="gef3.png" alt="GEF Sub-Menu" width="350px"/>
 </p>
 
-> *Recommendation: Reorganize the top navigation so that it complies with standards. For example, Hours & Locations can go under "About", Gala 2020 does not need to be displayed, and Vita 2021 should be kept under services (and should be renamed Free Tax Prep or something recognizable, since not everyone will know what VITA is).*
+> *Recommendation:  Design a more responsive site to avoid this issue.*
+
+* When the user clicks 'Contact Us', gmail is opened in the same tab, and an email draft is started. This doesn't give the user the feeling of control, as they didn't choose the next action. In addition, if the user decides not to email them, deleting the draft closes the tab, and forces the user to reopen a tab and navigate back to the site. (3)
+
+> *Recommendation: Clicking contact us provides the user with contact information, or opens gmail in a new tab.*
+
+#### 4. Consistency and Standards
+* Not every page has the same layout, which is a small issue, but does not look aesthetically pleasing. (1)
+
+<p align="center">
+  <img src="./gef4a" alt="GEF Page 1"/>
+  <img src="./gef4b" alt="GEF Page 2"/>
+</p>
+
+> *Recommendation: Choose one specific layout, and use that across the site.*
+
+* Similarly, the search fields are misaligned, which doesn't affect usability, but doesn't look good. (1)
+
+<p align="center">
+  <img src="./gef4c" alt="GEF Misaligned Search"/>
+</p>
+
+> *Recommendation: Align all the fields and buttons horizontally.*
+
+* In the chat, the typography for the username and password are not the same, which is another minor aesthetic issue. (1)
+
+<p align="center">
+  <img src="./gef4d" alt="GEF Login"/>
+</p>
+
+> *Recommendation: Use the same font, color, size and weight for consistency.*
 
 #### 5. Error Prevention
 * Phone numbers change based on which tab of the Community Health Center page the user is on. However, it is difficult to recognize this because these phone numbers aren't displayed below the tabs. It is easy for users to call the wrong number or send an email to the wrong email address. (3)
