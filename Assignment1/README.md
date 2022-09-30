@@ -49,104 +49,103 @@ Ratings are displayed in parentheses after each usability issue.
 * Under the 'Where We Work' section, it's unintuitive why 'North America' and 'New York Office' are separated, and why 'West Asia' and 'Asia and the Pacific' are separated. (2)
 
 <p align="center">
-  <img src="./unep2a.png" alt="Navigation Bar" width = "300px"/>
+  <img src="./unep2a.png" alt="Navigation Bar" width = "500px"/>
 </p>
 
 > *Recommendation: Use clearer distinctions between the listed regions, either by listing offices, or countries/continents where they work.*
 
-#### 3. User Control and Freedom
-* After searching for something in the search bar, the user's query is erased. If the user doesn't find the information they were looking for, which could happen often (especially since the recommended results don't immediately appear and may be irrelevant), they have to retype their query all over again. (2)
+* The icon on the far right is actually clickable, and takes the user to a site on the UN sustainability goals. Not every user may know that is what this represents, which could potentially be confusing. (1)
 
-> *Recommendation: Don't erase the user's query after they hit Search so that they can slightly modify their query if necessary.*
+<p align="center">
+  <img src="./unep2b.png" alt="UN Sustainability Goals" width = "300px"/>
+</p>
+
+> *Recommendation: Somewhere close to this icon should be a small subtitle that explains what this represents.*
+
+#### 3. User Control and Freedom
+* On some of the links in the navigation bar, it's not clear to the user that clicking the option will open a new tab. In the image below, clicking on UN Environment Assembly, redirects the user to a different webpage, which can make the user feel out of control. (2)
+
+<p align="center">
+  <img src="./unep3.png" alt="UNEP Navigation" width = "300px"/>
+</p>
+
+> *Recommendation: There is a commonly used icon to indicate that the link opens in a new tab, which should be used to make that clearer to the user.*
 
 #### 4. Consistency and Standards
-* Their page for COVID-19 and vaccine information is completely different from their normal website, which could confuse users because it seems like a separate website. Also, the navigation is hidden in a hamburger menu on the top-right, which is both less discoverable and unconventional. (3)
+* The sub-menu for 'What we do' looks different from all the other sub-menus, as shown below. (2)
 
 <p align="center">
-  <img src="../Images/homepage.PNG" alt="Mayo Clinic homepage"/>
-  <img src="../Images/covid-19-page.PNG" alt="Mayo Clinic COVID-19 page"/>
+  <img src="./unep4a.png" alt="UNEP What We Do"/>
+  <img src="./unep4b.png" alt="Where we work"/>
 </p>
 
-> *Recommendation: Maintain consistency with the main website so that users understand they are still in the same space. Show navigation at the top rather than hiding it in the hamburger menu.*
-
-* When you click Request Appointment, you cannot go back to the homepage by clicking the logo on the top-left corner, which can be frustrating for many users who expect that they can orient to the homepage by clicking the logo. I observed the same pattern across random pages of the website (including the Trouble Signing Up? page for account creation). The logo at the top left corner is probably the most common design pattern and needs to be upheld throughout the website. (3)
-
-> *Recommendation: Make sure that clicking the logo will go back to the homepage on every page. In general, make sure every functionality is consistent throughout the website so that users don't get 'lost' on a certain page.*
+> *Recommendation: The sub-menus should be standardized, and a design chosen that works for both.*
 
 #### 5. Error Prevention
-* Mayo Clinic is currently not accepting online requests for COVID-19 vaccine appointments. Although they provide a warning message above the button to request an appointment, users can easily skip this message. In the following modal window, users would likely randomly click "Yes" or "No" without regard to what the message is because they are habituated to getting out of the dialog window as fast as possible. (2)
+* The search does not support suggestions, making it prone to typos. Additionally, the search does not return similar results, which can be problematic if the user does not know how to spell a word or doesn't notice the type. (3)
 
 <p align="center">
-  <img src="../Images/appointment-modal-window.PNG" alt="Modal window asking about COVID-19 vaccine" width="700px"/>
+  <img src="./unep5.png" alt="UNEP Search" width="300px"/>
 </p>
 
-> *Recommendation: Get rid of the modal window and provide radio buttons to get users to make a deliberate choice between "Yes" and "No". It would also be helpful to display the error message again if the user clicks "Yes" rather than force them onto a page that doesn't explain the error they made.*
+> *Recommendation: We can either suggest results as the user types, or if the word is close in spelling to another commonly searched word, we can return results for that word as well, similar to what Google does.*
 
 #### 6. Recognition Rather Than Recall
-* On the health information page, the user must search by first letter (A-Z). This makes it difficult for users who may not know or remember the name of the disease or condition to access information about it. (2)
+* Many of the menu options have sub-menu options nestled within it, forcing the user to recall the organization of the site. (3)
 
-<p align="center">
-  <img src="../Images/diseases-and-conditions.PNG" alt="Diseases and conditions page" width="500px"/>
-</p>
-
-> *Recommendation: Provide some conditions or diseases that are often treated at Mayo Clinic. Also guide users to the symptom checker, where they can select from a list of symptoms and generate predicted diseases and conditions associated with those symptoms. In general, Mayo Clinic should better emphasize their symptom checker feature because it can be a great resource for those concerned with their health, like many seniors. (However, emphasize that it is necessary to check with a healthcare provider.)*
+> *Recommendation: Try re-organizing the navigation bar to reduce the number of sub-menu items to a reasonable amount.*
 
 #### 7. Flexibility and Efficiency of Use
-* Because the magnifying glass is within the search box, the user may not recognize that there is another way to trigger the search action (other than Enter). (1)
+* The only way to search is to click the text box and start typing, and press 'Enter' – the magnifying glass is not a functioning icon. (2)
 
-![Homepage of Mayo Clinic showing search box](../Images/homepage.PNG)
+<p align="center">
+  <img src="./unep7a.png" alt="UNEP Search Bar" width="300px"/>
+</p>
 
-> *Recommendation: Create a separate button for searching that includes the magnifying glass so that the user easily recognizes that it can be clicked to Search.*
+> *Recommendation: Allow the user to search by clicking on the magnifying glass.*
 
-* On the symptom checker, the user needs to select from a large list of symptoms, which is cumbersome and overwhelming. (3)
-![Symptom Checker Step 1 Capture](../Images/symptom-checker-step-1.PNG)
+* The image carousel shown below is unintuitive to use, because clicking the left button scrolls the images to the right, and vice versa. (3)
 
-> *Recommendation: Keep the list so that users can just recognize and click on recommendations, but implement a search feature at the top so that users can have the option to efficiently find the symptom they are experiencing. Also, group the symptoms into different categories to help users find the symptom they are looking for more easily.*
+<p align="center">
+  <img src="./unep7b.png" alt="UNEP Image Carousel" width="300px"/>
+</p>
 
-* Under Billing, clicking the name of a category doesn't display the drop-down menu, but rather takes you to another page, which can be disorienting. The user must click the + sign to the right of the name to get the drop-down menu, which also requires dexterity and is therefore less accessible for seniors. (3)
-
-> *Recommendation: Make it possible to access the drop-down by clicking the name of the category.*
+> *Recommendation: Make it so that the button direction matches the scroll direction, which is more intuitive.*
 
 #### 8. Aesthetic and Minimalist Design
-* Because Mayo Clinic's website is very large, it can be difficult to consolidate all the information while ensuring the website is usable. However, there are some unnecessary elements that visually clutter the website. For instance, in the first dropdown of the navigation menu, there are many different links that are somewhat unnecessary - Clinical Trials is already under "Research" (it also makes more sense there), and "Digital Health Care" is almost the same thing as "Patient Online Services" to users (they only need to include one of these). (3)
+* The footer is very long and packed with information, as is the header. It is very overwhelming to look at, especially when the header and footer tend to be more simple and concise on other sites. (2)
 
 <p align="center">
-  <img src="../Images/nav-care-at-mayo-clinic.PNG" alt="Navigation menu (Care at Mayo Clinic)" width="250px"/>
-  <img src="../Images/nav-research.PNG" alt="Navigation menu (Care at Mayo Clinic)" width="250px"/>
+  <img src="./unep8a.png" alt="UNEP Footer" width="300px"/>
 </p>
 
-> *Recommendation: Show only what is necessary in the navigation menu, and make sure the links are relevant to each category.*
+> *Recommendation: A lot of this information can be rearranged to make the design more minimalistic and less overwhelming. The footer in particular should be reduced to just contact and copyright information, instead of being another navigation tool.*
 
-* The billing and payments page has a very cluttered and unappealing design, placing a lot of cognitive strain on the user. (3)
+* The site essentially has two navigation bars, which is unnecessary and just causes more confusion for the user. (3)
 
-![Billing and payments page](../Images/billing-and-payments.PNG)
+<p align="center">
+  <img src="./unep8b.png" alt="UNEP Footer" width="300px"/>
+</p>
 
-> *Recommendation: Clean up the page by putting more spacing between the words, using better hierarchy to organize the information, listing items out in bullet points rather than in paragraph form, and using more relevant and high-quality images for each category.*
-
-* Lastly, the font size on the homepage navigation (and in other random locations throughout the website is small and faint, making it inaccessible for individuals with visual impairments. (3)
-
-> *Recommendation: Increase font sizes and increase contrast of the fonts (in this case, make them darker) to make them readable for seniors and other visually impaired individuals. Create a design guideline to ensure that all font sizes and styles are consistent throughout the website.*
+> *Recommendation: Consolidate the information from both of the navigation bars to minimize user confusion.*
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* If the user clicks "Yes" in the modal window asking if they are requesting a COVID-19 vaccine, they are directed to another page that doesn't immediately explain why they weren't directed to the appointment-making process. Instead, the page they land on is essentially a general About page for COVID-19 vaccines. (2)
-
-![After clicking Yes in the modal window box](../Images/clicked-yes.PNG)
-
-> *Recommendation: Immediately explain why they can't make an appointment for COVID-19 vaccines at the time. Make sure the message is visible (e.g. in red and/or bold).*
-
-#### 10. Help and Documentation
-* If the user is on the help page, they want detailed information relevant to them. On Mayo Clinic's FAQ page on making appointments, there is simply a huge wall of text that the user must scroll through to find a question they *might* be looking for. (2)
-
+* To subscribe to their newsletter, it requires the user's email address. However, you are able to submit the form with invalid inputs, and the user is never informed. (3)
+* 
 <p align="center">
-  <img src="../Images/appointment-faq.PNG" alt="Appointment FAQ page" width="500px"/>
+  <img src="./unep9.png" alt="UNEP Subscrie" width="300px"/>
 </p>
 
-> *Recommendation: Hide the text under each question to make it easy for users to scan through the possible questions and choose only content they are interested in. Organize the questions in a logical way. Include a downward arrow next to each question to show that information about that question can be found if they click each title. Use bullet points and numbered lists whenever appropriate.*
+> *Recommendation: The site should perform form validation and display error messages if required fields are missing or have invalid inputs.*
+
+#### 10. Help and Documentation
+* Users are able to contact them for help, but there is no guide to help the user navigate the site, and there isn't a FAQ section to answer common questions that one may have. Thus, they may have to wait for a response every time they have a question. (2)
+
+> *Recommendation:  Compile a FAQ and add that as a section on their website, so users have somewhere to look if they need help.*
 
 ### Overall Assessment
 
-The Mayo Clinic website is very large and contains a lot of information, so the main usability issues involve organizing the content and navigation in a way that is understandable for users, especially in terms of consistency & standards, flexibility & efficiency of use, and aesthetics & minimalist design. From an accessibility standpoint, they need to increase their font sizes and contrast between text and background, especially in the main navigation menu but also in other areas of their website. 
-
+This site is incredibly information-heavy, and despite having a good balance of images and well-spaced content, it still easily overwhelms the viewer. Its main issue is that the header, footer, and menus contain too much information, which leaves a lot of room for user error. Other than that, it has some minor issues regarding efficiency, consistency, etc.
 
 
 ## Website 2: [Chinatown Service Center (CSC)](https://www.cscla.org/)
