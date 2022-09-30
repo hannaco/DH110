@@ -167,7 +167,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * They have an interactive chat on the bottom right that allows the user to ask for help. When the user hovers over the text box, the cursor doesn't change, and there is no other indication that the user can start typing their query. (2)
 
 <p align="center">
-  <img src="gef1b.png" alt="GEF Chat" width="350px"/>
+  <img src="gef1b.png" alt="GEF Chat" width="500px"/>
 </p>
 
 > *Recommendation: Change the user's cursor when they hover, and have some indication that the user can start typing.*
@@ -185,7 +185,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * The site does not have fast response time, and as a result, the menus often all appear at the time time, especially when the user is looking at them very fast. (3)
 
 <p align="center">
-  <img src="./gef3.png" alt="GEF Menus" width="350px"/>
+  <img src="./gef3.png" alt="GEF Menus" width="500px"/>
 </p>
 
 > *Recommendation:  Design a more responsive site to avoid this issue.*
@@ -198,8 +198,8 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * Not every page has the same layout, which is a small issue, but does not look aesthetically pleasing. (1)
 
 <p align="center">
-  <img src="./gef4a" alt="GEF Page 1"/>
-  <img src="./gef4b" alt="GEF Page 2"/>
+  <img src="./gef4a.png" alt="GEF Page 1"/>
+  <img src="./gef4b.png" alt="GEF Page 2"/>
 </p>
 
 > *Recommendation: Choose one specific layout, and use that across the site.*
@@ -207,7 +207,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * Similarly, the search fields are misaligned, which doesn't affect usability, but doesn't look good. (1)
 
 <p align="center">
-  <img src="./gef4c" alt="GEF Misaligned Search"/>
+  <img src="./gef4c.png" alt="GEF Misaligned Search"/>
 </p>
 
 > *Recommendation: Align all the fields and buttons horizontally.*
@@ -215,7 +215,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * In the chat, the typography for the username and password are not the same, which is another minor aesthetic issue. (1)
 
 <p align="center">
-  <img src="./gef4d" alt="GEF Login"/>
+  <img src="./gef4d.png" alt="GEF Login"/>
 </p>
 
 > *Recommendation: Use the same font, color, size and weight for consistency.*
@@ -224,7 +224,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * The search does not support suggestions, making it prone to typos. Additionally, the search does not return similar results, which can be problematic if the user does not know how to spell a word or doesn't notice the typo. (3)
 
 <p align="center">
-  <img src="./gef5" alt="GEF Search"/>
+  <img src="./gef5.png" alt="GEF Search"/>
 </p>
 
 > *Recommendation: We can either suggest results as the user types, or if the word is close in spelling to another commonly searched word, we can return results for that word as well, similar to what Google does.*
@@ -242,7 +242,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * A lot of navigation is redundant, as the page has the same navigation options as the menus. (2)
 
 <p align="center">
-  <img src="./gef8" alt="GEF Search"/>
+  <img src="./gef8.png" alt="GEF Search"/>
 </p>
 
 > *Recommendation: Either remove the options from the navigation bar or from the page itself to remove redundancy.*
