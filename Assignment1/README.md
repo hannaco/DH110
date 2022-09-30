@@ -50,7 +50,7 @@ Ratings are displayed in parentheses after each usability issue.
 </p>
 
 #### 2. Match Between System and the Real World
-* Under the 'Where We Work' section, it's unintuitive why 'North America' and 'New York Office' are separated, and why 'West Asia' and 'Asia and the Pacific' are separated. (2)
+* Under the 'Where We Work' section, it's unintuitive why 'North America' and 'New York Office' are separated, and why 'West Asia' and 'Asia and the Pacific' are separated. The user would assume that the New York Office is located within North America, and likely be confused on what separates 'West Asia' from the rest of Asia.(2)
 
 <p align="center">
   <img src="./unep2a.png" alt="Navigation Bar" width = "500px"/>
