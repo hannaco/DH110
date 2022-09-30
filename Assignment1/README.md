@@ -176,7 +176,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * A lot of the options in the sub-menus have similar meanings, such as the one shown below. This can confuse users, and they may not know which one to navigate to. (3)
 
 <p align="center">
-  <img src="gef2.png" alt="GEF Sub-Menu" width="350px"/>
+  <img src="./gef2.png" alt="GEF Sub-Menu" width="350px"/>
 </p>
 
 *Recommendation: Remove the options that have similar meanings, such as Newsletter and News.*
@@ -185,7 +185,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * The site does not have fast response time, and as a result, the menus often all appear at the time time, especially when the user is looking at them very fast. (3)
 
 <p align="center">
-  <img src="gef3.png" alt="GEF Sub-Menu" width="350px"/>
+  <img src="./gef3.png" alt="GEF Menus" width="350px"/>
 </p>
 
 > *Recommendation:  Design a more responsive site to avoid this issue.*
@@ -221,69 +221,43 @@ This site is incredibly information-heavy, and despite having a good balance of 
 > *Recommendation: Use the same font, color, size and weight for consistency.*
 
 #### 5. Error Prevention
-* Phone numbers change based on which tab of the Community Health Center page the user is on. However, it is difficult to recognize this because these phone numbers aren't displayed below the tabs. It is easy for users to call the wrong number or send an email to the wrong email address. (3)
+* The search does not support suggestions, making it prone to typos. Additionally, the search does not return similar results, which can be problematic if the user does not know how to spell a word or doesn't notice the typo. (3)
 
 <p align="center">
-  <img src="../Images/behavioral-health-contact.PNG" alt="Contact information for Behavioral Health" width="550px"/>
-  
-  <img src="../Images/dental-clinic-contact.PNG" alt="Contact information for Dental Clinic" width="550px"/>
+  <img src="./gef5" alt="GEF Search"/>
 </p>
 
-> *Recommendation: Put the tabs above the content so that users know what information is relevant to which department. Put the contact information in a consistent and easy-to-find location for each tap. Alternatively, direct users to a contact page where they can easily find where they should contact.*
+> *Recommendation: We can either suggest results as the user types, or if the word is close in spelling to another commonly searched word, we can return results for that word as well, similar to what Google does.*
 
 #### 6. Recognition Rather Than Recall
-* When you hover over the top navigation menu, there is no indication of which menu item's dropdown is being displayed, forcing users to recall which of the menu items they were looking at. This also makes it more difficult for users to remember how they got to a certain page in the future. (2)
+* Many of the menu options have sub-menu options nestled within it, forcing the user to recall the organization of the site. (3)
 
-<p align="center">
-  <img src="../Images/nav-services.PNG" alt="Navigation Menu, Services" width="350px"/>
-</p>
-
-> *Recommendation: Connect the dropdown box with the menu item title to show that the dropdown is under that header.*
+> *Recommendation: Try re-organizing the navigation bar to reduce the number of sub-menu items to a reasonable amount.*
 
 #### 7. Flexibility and Efficiency of Use
-* There is no search bar on the website. Given the extent of content and resources they provide, it would be very helpful to be able to search keywords that will lead users to the information they are looking for. (2)
+* The user is able to search by pressing 'Enter' or clicking the magnifying glass. They can also undo what they type by pressing 'Ctrl-Z'.
 
-> *Recommendation: Implement a search function to allow users another option to efficiently navigate through the website.*
-
-* On the homepage, the first image is about free COVID-19 vaccines. The image, however, is not clickable and does not lead to another page with the details, as one would expect. Instead, the user must look through the website to find the full image/pdf. (3)
-
-<p align="center">
-  <img src="../Images/csc-homepage.PNG" alt="CSC homepage"/>
-</p>
-
-* I was able to find it under "Upcoming Events" at the bottom of the homepage, where users are unlikely to scroll to. Even then, the information was elusive - the carousel constantly autorotates through random images/pdfs of different events, and the only way to navigate through them is through the left and right arrow keys. Furthermore, although there is an Events category under "More" in the top navigation menu, it is not clickable. (3)
-
-<p align="center">
-  <img src="../Images/upcoming-events-2.PNG" alt="Upcoming Events carousel with free vaccine event information"/>
-</p>
-
-> *Recommendation: Because these free events are an integral part of CSC services, it makes sense to put a working Events link in the top navigation menu. On the Events page, separate upcoming events from past events. If possible, provide the information directly on the page rather than in image or pdf format so that users don't have to open another tab or window to view the information. Organize events by category, clearly provide dates and times, show relevant pictures.*
 
 #### 8. Aesthetics and Minimalist Design
-* Throughout the website, we see an unappealing interface due to incorrect placement of features, inconsistent fonts, colors, and other design aspects, low-quality images, cluttered and conflicting elements, and web developer mistakes. Altogether, the website is confusing for any user and lowers the credibility of the organization. The Community Health Center homepage, in particular, demonstrates this well. (3)
+* A lot of navigation is redundant, as the page has the same navigation options as the menus. (2)
 
-![CSC Community Health Center homepage](../Images/community-health-center-homepage.PNG)
+<p align="center">
+  <img src="./gef8" alt="GEF Search"/>
+</p>
 
-> *Recommendation: Firstly, we need to fix the web developer mistakes so that the features are at least visible. For instance, the language switch needs to be fully visible so that users know they can switch the language of the website (important for the large, nonnative English-speaking user base). Next, de-clutter the website by reorganizing the information presented. For example, it is unnecessary to place the Community Health Center description at the beginning of every tab's page; use that real estate for the menu itself. Lastly, make sure that a design guideline is used so that font sizes, spacing, and colors are appropriate for seniors and consistent throughout.*
-
-* The transparency of the tall fixed navigation menu dominates the layout of the page, and is very distracting. The menu is difficult to see and use, especially as users scroll down the page and there is text under the menu. (3)
-* The social media icons don't need to be fixed because they can interrupt content. The user base likely doesn't use much social media anyways. (1)
-
-> *Recommendation: Make the navigation menu opaque, and make it thinner by using the full width of the page and including only the necessary menu items so that more information can be displayed at a given time. Put social media icons in the footer, or at the top right if social media is actually used a lot by users (unlikely).*
+> *Recommendation: Either remove the options from the navigation bar or from the page itself to remove redundancy.*
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* When the wrong account information is entered on the patient portal, there is no indication of whether the username or password was incorrect (or both). (1)
+* For login, a generic error message appears, so there is no indication if one of the fields are incorrect, or if they already have an account. (2)
 
-> *Recommendation: Tell users which field is incorrect so that they can only fix what's needed.*
+> *Recommendation: Have a clearer error message that gives the user an idea of what went wrong.*
 
 #### 10. Help and Documentation
-* Virtually no help or documentation is provided on the website; the email and phone number are prominently displayed, so it is assumed that people would simply call or email to make an appointment or request information. Common information (such as what insurance they accept, phone numbers for different departments, how to request a "token" to access the patient portal) is randomly dispersed throughout the website. (3)
+* Users are able to contact them for help, but there is no guide to help the user navigate the site, and there isn't a FAQ section to answer common questions that one may have. Thus, they may have to wait for a response every time they have a question. (2)
 
-* A lot of information tends to be displayed via images and brochures, but it is difficult to find them. (3)
-
-> *Recommendation: Consolidate important general information on one page so that users are not completely confused. Provide a link to the contact page instead of randomly displaying the phone number and email. Provide more guidance to users on each page; there are many different departments, phone numbers, and locations. For example, who, where, and when exactly should a person contact if they are a new patient?*
+> *Recommendation: Compile a FAQ and add that as a section on their website, so users have somewhere to look if they need help.*
 
 ### Overall Assessment
 
-A lot of work needs to be done in many areas, but the areas to focus on first are probably flexibility & efficiency of use and aesthetics & minimalist design. Their health resources are invaluable to many low-income, immigrant families and their seniors, so being able to access that information easily should be prioritized. Also, an important feature to fix first is the visibility of the language switch, since many of their users may be Chinese monolinguals. The website is very harsh to look at in general, making it very difficult to use and makes CSC look unreliable. An update on aesthetics should therefore be one of their next steps.
+This site has several issues, but most of them are fairly minor aesthetic issues. However, it does have its major usability issues, such as unresponsive menus and too much information provided in one page. It also has a lot of consistency issues that need to be addressed. Overall, the site is usable, and certain pages are easy and appealing to look at and use, but this isn't the case for the entire site.
 
