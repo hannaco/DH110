@@ -215,7 +215,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 * In the chat, the typography for the username and password are not the same, which is another minor aesthetic issue. (1)
 
 <p align="center">
-  <img src="./gef4d.png" alt="GEF Login"/>
+  <img src="./gef4d.png" alt="GEF Login" width="500px"/>
 </p>
 
 > *Recommendation: Use the same font, color, size and weight for consistency.*
@@ -243,7 +243,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 
 <p align="center">
   <img src="./gef8a.png" alt="GEF Navigation 1" width="500px" />
-  <img src="./gef8b.png" alt="GEF Navigation 2" width="500px"/>
+  <img src="./gef8b.png" alt="GEF Navigation 2" width="350px"/>
 </p>
 
 > *Recommendation: Either remove the options from the navigation bar or from the page itself to remove redundancy.*
