@@ -1,16 +1,12 @@
-# Accessible Delivery of Health & Healthcare Information to Seniors
+# Individual Responsibility for Sustainability
 
 ## Assignment 1: Heuristic Evaluation
-
-https://www.thegef.org/
-https://www.theconsumergoodsforum.com/?s=public+trasnit
-https://www.unep.org/resources?keywords=forest
 
 Hanna Co | DH110 | Fall 2022
 
 ### About the project
 
-According to the United Nations, the number of seniors (65+) is expected to double to 1.5 billion by 2050 globally. Despite seniors being one of the fastest-growing and wealthiest demographics in wealthy countries, many digital products fail to meet senior accessibility needs and have made them feel excluded from an online world that is unfriendly to those with bad eyesight, declined dexterity, and unfamiliarity with the web. In particular, health is a major concern among seniors, and we should ensure that information is accessible to them. For this project, I hope to demonstrate how we can improve user (patient) experiences on websites with health, healthcare, and patient information so that seniors can maintain their well-being. Additionally, by designing for their accessibility, we are designing for everyone's accessibility.
+There are many sites online that talk about sustainability issues, and discuss root causes. However, a lot of these sites only talk about problems and solutions on a large scale, which often takes responsibility away from the user to take action. Additionally, many of these websites are not user-friendly, which deters viewers from reading further. With these points in mind, I plan to design a site that is more user-friendly and intuitive to use. This site will also detail smaller actions that an individual can integrate into their daily lives in an effort to live more sustainably.
 
 ### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) Explained
 
@@ -39,44 +35,24 @@ The following rating scale can be used to evaluate the severity of usability iss
 
 Ratings are displayed in parentheses after each usability issue.
 
-## Website 1: [Mayo Clinic](https://www.mayoclinic.org/)
+## Website 1: [UN Environment Programme](https://www.unep.org/)
 
 ### About
-[Mayo Clinic](https://www.mayoclinic.org/) is a non-profit American medical organization dedicated to clinical practice, education, and research, and whose location in Minnesota has been recognized as the best hospital of 2020-2021 by U.S. News & World Report. Mayo Clinic is a trusted source of medical information about diseases and conditions, possible causes for symptoms, drugs and supplements, tests and procedures, and healthy living. The website is also used by patients to make appointments, access their patient account, and find information about receiving care. 
-
-The richness of health information and breadth of features on the Mayo Clinic website can be both valuable and overwhelming. My goal is to preserve the value while streamlining the user's ability to navigate throughout the website.
+[UNEP](https://www.unep.org/) is the United Nations Environment Programme, and it sets the agenda for environmental actions and advocates for the environment. This site provides insight into who UNEP is, as well as what they do across the world. As such an authority in sustainability, this site is often visited by users across the globe looking for more information on how we are working to fight climate change. Since so many users visit this site, it is important that it is easy to use, and not overwhelming to one who has no prior knowledge on UNEP.
 
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* As you type in the search bar, possible options are not immediately displayed, which makes it difficult for the user to understand how the system is responding to their query (results start displaying only after 3 letters are inputted, but users expect it to be instantaneous). Furthermore, the recommended results shown are sometimes almost completely unrelated to health or medical information, which doesn't help the user. (2)
-
-<p align="center">
-  <img src="../Images/search-query-2.PNG" alt="Search query no immediate results" width = "300px"/>
-  <img src="../Images/search-query.png" alt="Search query irrelevant results" width = "300px"/>
-</p>
-
-> *Recommendation: Display results as the user types so that the user stays engaged, making it more likely they will continue to explore the site to find the information they need. Optimize search results so that they are relevant to health and medical information.*
-
-* Within each major step in the appointment-making process, there are a bunch of other steps. Because there is little visual representation of progress, users could be thwarted by the number of times they have to click "Continue". There is an outline on the left that changes color for the *major* steps completed, but at the beginning of each major step, the whole screen turns blue, making the contrast too low to see their progress (1):
-
-<p align="center">
-  <img src="../Images/appointment-request-progress.PNG" alt="Appointment request progress capture" height = "300px"/>
-</p>
-
-* There is also a percentage completed shown at the top left as the total progress indicator, but it is so small that users probably wouldn't notice it at first glance. (1)
-![Appointment Request Progress Capture](../Images/appointment-request-progress-2.PNG)
-
-> *Recommendation: Don't make the whole page blue at each major step; keep the page gray/white to ensure contrast in the progress tracker. Also, create a visual representation of progress by numbering the steps and including arrows. Implement a progress bar that slides forward as the user completes the information.*
+* The site highlights which item on the navigation bar the user is currently looking at. The user's cursor changes when it hovers over clickable links or text boxes.
 
 #### 2. Match Between System and the Real World
-* Although it's not a big issue, the placeholder text of the search bar is "Search Mayo Clinic", which seems like a missed opportunity to guide users in the right direction or express something about the brand, especially since this is a very large website. (1)
+* Under the 'Where We Work' section, it's unintuitive why 'North America' and 'New York Office' are separated, and why 'West Asia' and 'Asia and the Pacific' are separated. (2)
 
 <p align="center">
-  <img src="../Images/search-bar.PNG" alt="Homepage search bar" width = "300px"/>
+  <img src="./unep2a.png" alt="Navigation Bar" width = "300px"/>
 </p>
 
-> *Recommendation: Consider modifying the placeholder text based on what would be most helpful for users' existing habits. Perhaps something like 'Search health topics, conditions, doctors' or whatever is most relevant to most users.*
+> *Recommendation: Use clearer distinctions between the listed regions, either by listing offices, or countries/continents where they work.*
 
 #### 3. User Control and Freedom
 * After searching for something in the search bar, the user's query is erased. If the user doesn't find the information they were looking for, which could happen often (especially since the recommended results don't immediately appear and may be irrelevant), they have to retype their query all over again. (2)
