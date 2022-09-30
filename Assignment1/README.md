@@ -131,7 +131,7 @@ Ratings are displayed in parentheses after each usability issue.
   <img src="./unep8b.png" alt="UNEP Footer" width="500px"/>
 </p>
 
-> *Recommendation: Consolidate the information from both of the navigation bars to minimize user confusion.*
+> *Recommendation: Consolidate the information from both of the navigation bars to minimize user confusion. A lot of the options in the top navigation bar can be included in the lower navigation bar.*
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 * To subscribe to their newsletter, it requires the user's email address. However, you are able to submit the form with invalid inputs, and the user is never informed. (3)
@@ -140,12 +140,12 @@ Ratings are displayed in parentheses after each usability issue.
   <img src="./unep9.png" alt="UNEP Subscrie" width="500px"/>
 </p>
 
-> *Recommendation: The site should perform form validation and display error messages if required fields are missing or have invalid inputs.*
+> *Recommendation: The site should perform form validation and display error messages if required fields are missing or have invalid inputs. It should also not allow for success messages if the inputs are invalid, as it can be misleading to the user.*
 
 #### 10. Help and Documentation
 * Users are able to contact them for help, but there is no guide to help the user navigate the site, and there isn't a FAQ section to answer common questions that one may have. Thus, they may have to wait for a response every time they have a question. (2)
 
-> *Recommendation:  Compile a FAQ and add that as a section on their website, so users have somewhere to look if they need help.*
+> *Recommendation:  Compile a FAQ and add that as a section on their website, so users have somewhere to look if they need help. The top most commonly asked questions can be compiled onto this page.*
 
 ### Overall Assessment
 
@@ -255,7 +255,7 @@ This site is incredibly information-heavy, and despite having a good balance of 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 * For login, a generic error message appears, so there is no indication if one of the fields are incorrect, or if they already have an account. (2)
 
-> *Recommendation: Have a clearer error message that gives the user an idea of what went wrong.*
+> *Recommendation: Have a clearer error message that gives the user an idea of what went wrong. For example, inform the user that the password and username do not match, or if the user doesn't already have an account.*
 
 #### 10. Help and Documentation
 * Users are able to contact them for help, but there is no guide to help the user navigate the site, and there isn't a FAQ section to answer common questions that one may have. Thus, they may have to wait for a response every time they have a question. (2)
