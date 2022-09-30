@@ -45,6 +45,10 @@ Ratings are displayed in parentheses after each usability issue.
 #### 1. Visibility of System Status
 * The site highlights which item on the navigation bar the user is currently looking at. The user's cursor changes when it hovers over clickable links or text boxes.
 
+<p align="center">
+  <img src="./unep1.png" alt="Navigation Bar Good" width = "500px"/>
+</p>
+
 #### 2. Match Between System and the Real World
 * Under the 'Where We Work' section, it's unintuitive why 'North America' and 'New York Office' are separated, and why 'West Asia' and 'Asia and the Pacific' are separated. (2)
 
