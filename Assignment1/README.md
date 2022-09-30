@@ -86,7 +86,7 @@ Ratings are displayed in parentheses after each usability issue.
 > *Recommendation: The sub-menus should be standardized, and a design chosen that works for both.*
 
 #### 5. Error Prevention
-* The search does not support suggestions, making it prone to typos. Additionally, the search does not return similar results, which can be problematic if the user does not know how to spell a word or doesn't notice the type. (3)
+* The search does not support suggestions, making it prone to typos. Additionally, the search does not return similar results, which can be problematic if the user does not know how to spell a word or doesn't notice the typo. (3)
 
 <p align="center">
   <img src="./unep5.png" alt="UNEP Search" width="500px"/>
