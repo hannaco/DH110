@@ -39,7 +39,7 @@ The questionnaire consisted of the following components:
 * Demographic questions
 
 ### Questionnaire Link
-Link to the questionnaire (includes the moderator script and participant survey) [here](https://docs.google.com/forms/d/e/1FAIpQLScKkK4JFiPDIyvAw645oKG36WBJO_igeXGJS6PRohB4tHtyTA/viewform?usp=sf_link).
+Link to the questionnaire (includes the moderator script and participant survey) [here](https://forms.gle/VmJBdQ5eCcu7ktkCA).
 
 ### Video Link
 Link to the pilot UT [here](https://drive.google.com/file/d/1NBCB_01-NReN6Kc6yMDuIweXLQnG1v2W/view?usp=sharing).
