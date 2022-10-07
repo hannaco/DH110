@@ -7,8 +7,7 @@ Hanna Co | DH110 | Fall 2022
 ### About the Project
 [UNEP](https://www.unep.org/)is the United Nations Environment Programme, and it sets the agenda for environmental actions and advocates for the environment. It informs the public on the UN efforts to combat environmental issues, as well as some ways that the public can get involved or help their cause.
 
-After conducting a [heuristic evaluation](https://github.com/hannaco/DH110/blob/main/Assignment1/README.md) of the UNEP desktop website, I identified several usability concerns that should be addressed.
-dncojsb eoie bv
+After conducting a [heuristic evaluation](https://github.com/hannaco/DH110/blob/main/Assignment1/README.md) of the UNEP desktop website, I identified several usability concerns that should be addressed. When it came to user control and matching the system to the real world, there were minor changes that could've been made to eliminate confusion for the user. In terms of flexibility and efficiency of use, some aspects of the site were not intuitive or difficult to navigate. Finally, the site was densely packed with information and rescources for the user to learn about sustainability, which resulted in some elements of the site looking cluttered or not uniform with other elements of the site. Overall, while the site is usable and helpful, it can easily overwhelm the user
 
 ### The Purpose of Usability Testing
 
