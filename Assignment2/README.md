@@ -48,6 +48,7 @@ Link to the pilot UT [here](https://drive.google.com/file/d/1NBCB_01-NReN6Kc6yMD
 ## Reflection
 
 ### What went well:
+Overall, the user confirmed a lot of the concerns I expressed during the heuristic evaluation - there was sometimes some disconnect between the real world and the site, and some parts of the site weren't intuitive to use.
 In general, the user confirmed what I thought during the heuristic evaluation - the huge amount of content can be quite overwhelming, especially when not properly organized in a hierarchical manner, and a lot of information and features can be difficult to find. Furthermore, I identified a few more usability issues. For example, the search bar in the main navigation bar does not provide results for some pages even though they exist, including that of "vitamin D". Also, the wording in the symptom checker can make it difficult to find certain symptoms. Finally, the use of long paragraphs in the body text inhibits the user from finding information and discourages them from reading through. I also learned a few things about user habits, such as how users, especially more tech-savvy ones, are willing to scroll; however, they may develop "scrolling fatigue" if the content is not clustered properly or if they cannot efficiently find the information they want. Furthermore, each user may take a unique path to perform the task, not necessarily the one intended by the moderator.
 
 ### What didn't go well:
