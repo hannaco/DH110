@@ -42,8 +42,7 @@ The questionnaire consisted of the following components:
 Link to the questionnaire (includes the moderator script and participant survey) [here](https://forms.gle/VmJBdQ5eCcu7ktkCA).
 
 ### Video Link
-Link to the pilot UT [here](https://drive.google.com/file/d/1NBCB_01-NReN6Kc6yMDuIweXLQnG1v2W/view?usp=sharing).
-(By request of the participant, the participant's face was not included.)
+Link to the pilot UT [here](https://drive.google.com/file/d/1f98OxBLvMpZGYLmNlRhs_cf5W1ZxP-Ww/view?usp=sharing).
 
 ## Reflection
 
