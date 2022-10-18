@@ -35,7 +35,7 @@ Users would typically search the internet for sustainability issues and try to f
 ## Interview Guide
 Please find the script [here](https://docs.google.com/document/d/1t4FfLQV-Y7kwfn3AJukJEKchbjqIt1F5bp5t1ROAD9Y/edit?usp=sharing).
 
-Please find the audio recording [here](https://drive.google.com/file/d/1AyXbAT5u9_EiqXZGwU7-Az5R3KFIyIqZ/view?usp=sharing) (participant requested to not be filmed.
+Please find the audio recording [here](https://drive.google.com/file/d/1AyXbAT5u9_EiqXZGwU7-Az5R3KFIyIqZ/view?usp=sharing) (participant requested to not be filmed).
 
 Please find the transcription [here](https://docs.google.com/document/d/1aqGmLvdmM2m7dAn9cUOjGRb49m6M8A403LOn058bD2w/edit?usp=sharing).
 
