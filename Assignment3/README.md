@@ -40,18 +40,18 @@ Please find the audio recording [here](https://drive.google.com/file/d/1AyXbAT5u
 Please find the transcription [here](https://docs.google.com/document/d/1aqGmLvdmM2m7dAn9cUOjGRb49m6M8A403LOn058bD2w/edit?usp=sharing).
 
 ## Insights from the Interview 
-# If you were to participate in activities or make lifestyle changes related to environmental preservation or sustainability, what are factors important to you? Why?
+### If you were to participate in activities or make lifestyle changes related to environmental preservation or sustainability, what are factors important to you? Why?
 "I'd say cost and like, I guess like how easy it is like access it, cuz I think those are like the two main defining factors in like whether or not I would do that."
 
-# What do you think stops most people from engaging in these activities?
+### What do you think stops most people from engaging in these activities?
 "Yeah, I'd say like probably money  I feel like a lot of people like wouldn't choose something sustainable over something that's not because like it's usually a bit more expensive even though like it lasts longer. And then like I guess education about it too, like some people don't know or like think that their, what, like whatever they change in their lifestyle won't have a big impact so I feel like they wouldn't do it cuz they're like oh it doesn't matter anyways."
 
-# Thoughts and reactions towards suggested ways to get involved.
+### Thoughts and reactions towards suggested ways to get involved.
 "They have like a take action page and I guess it has like like alerts on why it matters and then a tip guide that explains how you can create a plan for action and I think there's like a donation tab as well. I think that's it."
 "Um, I feel like it isn't [a practical way to get individuals involved], cuz like the main thing they do is like go to court for people who are like, like trying to, I guess like challenge the law and stuff. So I don't think like an individual that's like not a lawyer can like really contribute to their thing besides like donating. So I don't think it's like that practical."
 "[regarding feelings about this] I guess that's kind of like a deterrent in like, like if you like did all the work to search up this website, excited to get involved it'd be like you can't really help so that'd be a little like disappointing, I guess."
 
-# Accessibility of information and feasibility of suggested actions.
+### Accessibility of information and feasibility of suggested actions.
 "Um, yes. I think it's [finding and understanding the information], yeah, pretty easy."
 "Um, I think like, like when I Googled it, like, like Google had like a good summary of it and then like I think that when I clicked on like this Earth Justice website like it was very organized and like tell you what they did and like how they helped and stuff and the donate button was really clear."
 "Maybe just like put actual ways that like normal people could help. I think like the things they had were like the action tip guide which wasn't really like like a way you could help it's just like telling you how you could make a plan to help. But, yeah."
