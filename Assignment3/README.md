@@ -48,12 +48,16 @@ Please find the transcription [here](https://docs.google.com/document/d/1aqGmLvd
 
 ### Thoughts and reactions towards suggested ways to get involved.
 "They have like a take action page and I guess it has like like alerts on why it matters and then a tip guide that explains how you can create a plan for action and I think there's like a donation tab as well. I think that's it."
+
 "Um, I feel like it isn't [a practical way to get individuals involved], cuz like the main thing they do is like go to court for people who are like, like trying to, I guess like challenge the law and stuff. So I don't think like an individual that's like not a lawyer can like really contribute to their thing besides like donating. So I don't think it's like that practical."
+
 "[regarding feelings about this] I guess that's kind of like a deterrent in like, like if you like did all the work to search up this website, excited to get involved it'd be like you can't really help so that'd be a little like disappointing, I guess."
 
 ### Accessibility of information and feasibility of suggested actions.
 "Um, yes. I think it's [finding and understanding the information], yeah, pretty easy."
+
 "Um, I think like, like when I Googled it, like, like Google had like a good summary of it and then like I think that when I clicked on like this Earth Justice website like it was very organized and like tell you what they did and like how they helped and stuff and the donate button was really clear."
+
 "Maybe just like put actual ways that like normal people could help. I think like the things they had were like the action tip guide which wasn't really like like a way you could help it's just like telling you how you could make a plan to help. But, yeah."
 
 ## Reflection 
