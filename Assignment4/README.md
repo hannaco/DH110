@@ -10,13 +10,13 @@ The purpose of UX storytelling is to be able to see things from the user's persp
 3. Read stories about current sustainability issues, how it affects us, and stories from individuals who've made a difference
 
 ## Personas & Empathy Map
-### Persona 1: Olivia Thoman
-<img src="/olivia_persona.png" width="100%">
-<img src="/olivia_empathy_map.png" width="100%">
+### Persona 1: Olivia Thomas
+<img src="./olivia_persona.png" width="100%">
+<img src="./olivia_empathy_map.png" width="100%">
 
 ### Persona 2: James Lee
-<img src="/james_persona.png" width="100%">
-<img src="/James_empathy_map.png" width="100%">
+<img src="./james_persona.png" width="100%">
+<img src="./james_empathy_map.png" width="100%">
 
 ## User Scenarios and Journey Maps
 ### Scenario 1 - Olivia
@@ -30,7 +30,7 @@ Looking at all this information, Olivia begins to feel good about herself again.
 
 **Olivia's Journey Map**
 
-<img src="/journey_map_2.png" width="100%">
+<img src="./journey_map_2.png" width="100%">
 
 
 ### Scenario 2 - Olivia
@@ -44,7 +44,7 @@ The weekend comes and Olivia spends the morning cleaning up the local parks and 
 
 **Olivia's Journey Map**
 
-<img src="/journey_map_1.png" width="100%">
+<img src="./journey_map_1.png" width="100%">
 
 ### Scenario 3 - James
 James is on his way to class, and is going through Bruinwalk to get to where his lecture is being held. On the way there, he is stopped by someone who claims to be from an organization called CALPIRG, asking for a donation to prevent plastics in the ocean. He goes on about sustainability, and James is confused and has no idea what he is talking about. James also doesn't really understand how sea turtles dying should matter to him – after all, he's not a sea turtle. He gets to class and tells his friend about his bizarre experience. His friend tells him to do some research and gives him some resources.
@@ -57,5 +57,5 @@ James is content that he finally has answers to his questions, and promises to h
 
 **James's Journey Map**
 
-<img src="/journey_map_3.png" width="100%">
+<img src="./journey_map_3.png" width="100%">
 
