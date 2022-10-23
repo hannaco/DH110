@@ -2,59 +2,60 @@
 Hanna Co | DH110 | Fall 2022
 
 ## Purpose of UX Storytelling
-- To understand the user throught putting yourself in their shoes and seeing it from their perspective
-- Provide insight about the user, their beahavior, story, and pain points
-- Allows the team to design a product that focuses on the user
+The purpose of UX storytelling is to be able to see things from the user's perspective, and allows you to design in a way that takes their needs into account. It allows the designer to focus on the user's goals and motivations, while getting a more general understanding. UX storytelling is less tailored to an individual and allows you to filter out personal preferences or anything that isn't critical to the function and purpose of your design. It's a strategy to help the designer match the product's focus and purpose to the user's needs and goals.
 
 ## Design Features
-- Ingredients search bar: Clear and easily accessible search bar for users to add ingredients
-- Grocery list: Allows users to add missing ingredients into a list (not present, would be a useful implementation)
-- Filter: Obvious filter that has clear filter categories
+1. Find feasible and accessible ways to be more sustainable
+2. Quiz where users can choose sustainable activities they participate in and it tells them what impact it has
+3. Read stories about current sustainability issues, how it affects us, and stories from individuals who've made a difference
 
 ## Personas & Empathy Map
-### Persona 1: Mary Poppins
-<img src="/MaryPersona.png" width="100%">
+### Persona 1: Olivia Thoman
+<img src="/olivia_persona.png" width="100%">
+<img src="/olivia_empathy_map.png" width="100%">
 
-### Persona 2: Kevin Lee
-<img src="/KevinPersona.png" width="100%">
+### Persona 2: James Lee
+<img src="/james_persona.png" width="100%">
+<img src="/James_empathy_map.png" width="100%">
 
 ## User Scenarios and Journey Maps
-### Mary Poppin's Scenario
-**Why**
+### Scenario 1 - Olivia
+Olivia is a part-time worker at the Starbucks on her college campus. One day, she is working at the cash register, taking customer's orders. Every customer, she suggests that they buy a reusable cup, to receive a small discount on their drink but to also help the environment. She likes to try and get everyone involved in protecting the environment, even if the effort is small. Usually, they agree or politely refuse, but today, a customer snapped at her, telling her that small efforts like reusable cups are pointless and don't do anything meaningful. Olivia is taken aback and hurt, and begins to feel down. She starts to wonder if anything she's doing is actually helping the environment. She begins to question the real impact of her sustainable habits.
 
-Mary is a mother of two and wants to do the most to make her kids happy and healthy.  However, she has never learned how to cook so she only knows how to make 5 dishes, which her kids get tired of and aren’t the healthiest. She tries to buy lots of ingredients to attempt to add to the dishes she knows how to make, but it always fails so some ingredients go bad in the fridge. Thus, she wants to know how to learn how to cook and make new dishes using the ingredients she buys. She also wants to make sure the dishes are suitable for kids.
+Olivia is unsettled when she goes home, and decides to do some of her own research. Not knowing where to start, she turns to Google as she always does, and begins looking for information regarding her sustainable habits. Unfortunately, all she finds are long articles involving in-depth research and terminology that she is not familiar with. However, after much searching, she finds a website called Sustainable U, which has a quiz that allows the user to select what sustainable activities they participate in, and tells them how their individual efforts have made a difference.
 
-**How**
+Intrigued, Olivia takes the quiz. She selects all of the sustainable activities that she engages in, such as reusable straws, water bottles, and bags, and taking public transportation. She also inputs how long she has been doing each of these, in order to receive more accurate results. To her delight, the website tells her that her efforts have prevented hundreds of pounds of pollutants in the air, and significantly reduced plastic waste. It also provides her with more specifics: her metal straw usage has stopped 250 plastic straws from being used, which could mean the lives of many marine animals.
 
-To cook breakfast for her kids, Mary turns on her personal laptop and goes onto the SuperCook site. She opens her fridge and looks at all the ingredients she has. She has chicken breasts, american cheese, onions, green beans, spinach, ground beef, flour, sugar, potato, vegetable oil, and olive oil. She presses on the categories, which expand and shows ingredients. She proceeds and marks all the ingredients she has in her fridge using the checkbox beside each of them. As she does so, the page refreshes to show the recipe of dishes she can make. The page shows that she can make 900+ dishes with her 11 ingredients. Mary sees that there are so many options and is intimidated. She notices that there is a filter on the page, and clicks on age range to narrow down her searches. She is able to select toddler & preschool to identify what age range her kids are in. This way, she is able to make sure these dishes are suitable for her kids. Once she selects the filters, the page refreshes, and narrows down the recipes to displays ones that are safe for her kids. She clicks on the picture of the first one, potato pancakes, which opens a new tab that brings her to the recipe page. She brings out all the ingredients that are required for the recipe and follows the recipe to make the dish. Her dish is a success and she wakes her kids up to eat breakfast. Her kids are delighted to see that it is a new dish and love it. Mary is happy and satisfied that her kids seem to like the new dish she has made. 
+Looking at all this information, Olivia begins to feel good about herself again. She is relieved to know that all her efforts weren't for nothing. Not only that, but she was so shocked that just taking the bus every day had such a big impact on pollution. Feeling relieved and affirmed, she continues to participate in her favorite ways to be sustainable, and continues to promote it at her work, now with data to back up her suggestions.
 
-**Mary's Journey Map**
+**Olivia's Journey Map**
 
-<img src="/MaryJourney.png" width="100%">
+<img src="/journey_map_2.png" width="100%">
 
 
-### Kevin's Scenario
-#### Ingredients search bar
-**Why**
+### Scenario 2 - Olivia
+Olivia is enrolled in an Ethics of Environmental Engineering course, which talks about ethical and social issues regarding environmental engineering, as well as other issues regarding the environment. Olivia is attending the lecture, and her professor goes on a tangent and begins to mention all the negative impacts humans have had on the environment. Her professor talks about how trash is accumulating in landfills and in the ocean. Hearing this, she is saddened, but becomes motivated to take action to try and undo the damage that humans have already done.
 
-Kevin is a busy consultant living in the city of New York. He is an adventurous foodie and enjoys trying new foods. He also loves cooking new dishes and wants to attempt to cook new dishes. However, he is always busy with work, so he doesn't like to do things that take long. He just came back from his grocery shopping trip and wants to find a new recipe to make. He only has 1.5 hours to find a recipe and cook, so he wants this process to fast and easy. 
+She goes home and begins to do some research again. She quickly becomes frustrated looking at all these websites run by large organizations – everything they do is not feasible for her to get involved in. They suggest activities or action items such as "reduce carbon emissions" or "fish trash out of the ocean", neither of which are options that are available to Olivia. Some also ask for donations, but Olivia cannot afford to give money to these organizations. She looks at some other websites, but their suggestions are less helpful, with vague reminders and statements that "Earth Day is coming up!" and  "Get involved in National Tree Day!". 
 
-**How**
+Just when she is about to give up, Olivia remembers Sustainable U, a site she looked at when trying to research the impact of her actions. She navigates back to the site, and is able to quickly find a "Get Involved" tab. Olivia is happy to see that not only does Sustainable U have multiple ways to get involved, but most of them are feasible and accessible for college students like herself. Olivia writes down some of the suggestions, and plans a weekend where she can focus on engaging in these activities.
 
-Kevin uses his personal desktop and goes onto SuperCook. He starts to mark all the ingredients that he has bought by clicking on the category that expands, and then marking the box next to the ingredient. However, it takes Kevin a while to search for the ingredients he has. He becomes frustrated because time is running out and he needs to go back to working. Kevin notices that there is a search bar above the categories, so he starts typing his ingredients there. When he starts typing, the search bar autopopulates possible ingredients that he is searching for so that he can input the ingredient this way. Kevin is satisfied because the search bar makes the process of inputting ingredients faster. He successfully inputs all the ingredients he has. The page shows all the recipes using his ingredients, and he selects one to make. 
+The weekend comes and Olivia spends the morning cleaning up the local parks and community centers, filling up many trash bags with litter. The work is tiring, but she feels fulfilled and happy. Later in the day, she attends a meeting on the school campus that is petitioning for better trash sorting and more trash bins on campus. She helps them draft a letter to the school and collects signatures for their petition. Olivia ends her day by stopping by the store to pick up more reusable alternatives that she recently learned about. She is surprised at how easy these activities, opportunities, and items were to engage in and find, and is excited to get involved more in the future.
 
-<img src="/KevinJourney1.png" width="100%">
+**Olivia's Journey Map**
 
-#### Grocery List
-**Why**
+<img src="/journey_map_1.png" width="100%">
 
-Kevin is a busy consultant living in the city of New York. He is an adventurous foodie and enjoys trying new foods. He also loves cooking new dishes and wants to attempt to cook new dishes. However, he is always busy with work, so he doesn't go on gorcery runs often. Thus, he can't buy new ingredients often to try new dishes. When he's shopping, he can never recall what he has in his refrigerator and always feels like he already has an ingredient at home. However, when he gets home, he finds that he always misses certain ingredients that the recipe says he needs, making him unable to make the dish. He wants to be able to remember all the missing ingredients he has to buy at the grocery store. 
+### Scenario 3 - James
+James is on his way to class, and is going through Bruinwalk to get to where his lecture is being held. On the way there, he is stopped by someone who claims to be from an organization called CALPIRG, asking for a donation to prevent plastics in the ocean. He goes on about sustainability, and James is confused and has no idea what he is talking about. James also doesn't really understand how sea turtles dying should matter to him – after all, he's not a sea turtle. He gets to class and tells his friend about his bizarre experience. His friend tells him to do some research and gives him some resources.
 
-**How**
+James goes home and begins looking at these websites his friend recommended. After reading through the first few, he has a good grasp on what sustainability is, but he still doesn't see how these problems apply to him, especially since there doesn't seem to be anything an individual can do. All these sites that he looked at have talked about things that large organizations have done to make an impact, or just doesn't talk about the impact they've had at all. James wants to know that anything he does as an individual can actually make a difference. He understands that these are problems–dying animals are not good–but still doesn't see how this affects him. James is discouraged, but goes to the last website his friend recommended, called Sustainable U.
 
-Kevin plans to go grocery shopping after work tomorrow. He goes onto his personal desktop and browses through the recipes he can make. Kevin sees that there are recipes on the page which indicates in red what ingredients he is missing. He tries to make a mental note of what ingredients he will need to buy tomorrow, but is worried that he might forget some of them like he always does. Kevin notices that there is a plus next to the ingredient. When he hovers over it, it says add to grocery list. He clicks the plus sign and there is a small pop up that says added to grocery list. Kevin notices that there is a tab on the navigation bar that says grocery list. He clicks on the grocery list, which shows all the missing ingredients he has added. He takes a screenshot of this list. The next day when he goes to the grocery store, he is able to check his photos to see the missing ingredients list. He buys all the ingredients that he had added on there.  When Kevin arrives home, he is happy to see that he has all the ingredients in order to make dishes he wants.
+He scrolls through, and goes to "Issues", expecting to read the same things he's already read. However, he's surprised to see that these articles break down these issues on each level – how it affects Earth, society, and the individual. After looking at this, he's able to understand that losing a species throws the ecosystem out of balance, and this affects all other living things on Earth, including him. He begins to be intrigued, and clicks on "Read Our Stories", where he finally finds what he's been looking for – articles written by individuals about how the work they've done has made an impact. He reads about how this one guy catches animals on the beach tangled in trash and frees them, effectively saving their life. 
 
-**Kevin's Journey Map**
+James is content that he finally has answers to his questions, and promises to himself that he will join CALPIRG the next time he sees them, and contribute to more causes that help the environment. He also becomes motivated to start his own initiative on campus to address any issues they can.
 
-<img src="/KevinJourney2.png" width="100%">
+**James's Journey Map**
+
+<img src="/journey_map_3.png" width="100%">
 
