@@ -31,12 +31,12 @@ I created two [personas](https://github.com/hannaco/DH110/tree/main/Assignment4)
 
 ### Version 2
 <p align="center">
-  <img src="./V2" alt="V1" width = "100%"/>
+  <img src="./V2" alt="V2" width = "100%"/>
 </p>
 
 ### Version 3
 <p align="center">
-  <img src="./V3" alt="V1" width = "100%"/>
+  <img src="./V3" alt="V3" width = "100%"/>
 </p>
 
 ## Prototype Testing
