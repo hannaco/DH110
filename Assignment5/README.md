@@ -42,7 +42,7 @@ I created two [personas](https://github.com/hannaco/DH110/tree/main/Assignment4)
 ## Prototype Testing
 ### Version 1 Testing
 <p align="center">
-  <img src="./V1Testing.png" alt="V1Testing" width = "100%"/>
+  <img src="./V1Test.png" alt="V1Testing" width = "100%"/>
 </p>
 <p align="center">
   <img src="./IMG_7066.jpg" alt="test1" width = "100%"/>
@@ -52,7 +52,7 @@ I created two [personas](https://github.com/hannaco/DH110/tree/main/Assignment4)
 
 ### Version 2 Testing
 <p align="center">
-  <img src="./V2Testing.png" alt="V2Testing" width = "100%"/>
+  <img src="./V2Test.png" alt="V2Testing" width = "100%"/>
 </p>
 
 ## Reflection
