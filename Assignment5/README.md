@@ -26,33 +26,33 @@ I created two [personas](https://github.com/hannaco/DH110/tree/main/Assignment4)
 ## Wireframes and Wireflow
 ### Version 1
 <p align="center">
-  <img src="./V1" alt="V1" width = "100%"/>
+  <img src="./V1.png" alt="V1" width = "100%"/>
 </p>
 
 ### Version 2
 <p align="center">
-  <img src="./V2" alt="V2" width = "100%"/>
+  <img src="./V2.png" alt="V2" width = "100%"/>
 </p>
 
 ### Version 3
 <p align="center">
-  <img src="./V3" alt="V3" width = "100%"/>
+  <img src="./V3.png" alt="V3" width = "100%"/>
 </p>
 
 ## Prototype Testing
 ### Version 1 Testing
 <p align="center">
-  <img src="./V1Testing" alt="V1Testing" width = "100%"/>
+  <img src="./V1Testing.png" alt="V1Testing" width = "100%"/>
 </p>
 <p align="center">
-  <img src="./IMG_7066.jps" alt="test1" width = "100%"/>
-  <img src="./IMG_7064.jps" alt="test2" width = "100%"/>
-  <img src="./IMG_7056.jps" alt="test3" width = "100%"/>
+  <img src="./IMG_7066.jpg" alt="test1" width = "100%"/>
+  <img src="./IMG_7064.jpg" alt="test2" width = "100%"/>
+  <img src="./IMG_7056.jpg" alt="test3" width = "100%"/>
 </p>
 
 ### Version 2 Testing
 <p align="center">
-  <img src="./V2Testing" alt="V2Testing" width = "100%"/>
+  <img src="./V2Testing.png" alt="V2Testing" width = "100%"/>
 </p>
 
 ## Reflection
