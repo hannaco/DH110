@@ -24,17 +24,17 @@ I created two [personas](https://github.com/hannaco/DH110/tree/main/Assignment4)
 2. Find ways to get involved in sustainability
 
 ## Wireframes and Wireflow
-### Version 1
+### [Version 1](https://www.figma.com/file/bBf74e5VxTSr3bYNaL6IUk/DH-110-Assignment-5-V1)
 <p align="center">
   <img src="./V1.png" alt="V1" width = "100%"/>
 </p>
 
-### Version 2
+### [Version 2](https://www.figma.com/file/fKMQDn9FQ3jISo5nPCgMOG/DH-110-Assignment-5-V2)
 <p align="center">
   <img src="./V2.png" alt="V2" width = "100%"/>
 </p>
 
-### Version 3
+### [Version 3](https://www.figma.com/file/ExqVTLKUcgsJIpf7WVvVoC/DH-110-Assignment-5-V3?node-id=0%3A1)
 <p align="center">
   <img src="./V3.png" alt="V3" width = "100%"/>
 </p>
