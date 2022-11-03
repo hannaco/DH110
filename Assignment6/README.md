@@ -20,6 +20,9 @@ Hanna Co | DH110 | Fall 2022
 
 ## Screen Interface Designs
 
+### Layout
+
+
 ### Typographic Variations
 
 
@@ -27,10 +30,6 @@ Hanna Co | DH110 | Fall 2022
 
 
 ### Color Palettes
-
-
-### Layout
-
 
 
 ### Components
@@ -64,6 +63,5 @@ Hanna Co | DH110 | Fall 2022
 **Typography:** 
 
 **Color Palette:** 
-
 
 **Layout:** 
