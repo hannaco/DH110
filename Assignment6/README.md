@@ -45,7 +45,7 @@ Hanna Co | DH110 | Fall 2022
 ## Accessibility + Contrast Check
 
 
-## Final Screen Design & Design System 🎨
+## Final Screen Design & Design System
 
 ### Screen Design
 
