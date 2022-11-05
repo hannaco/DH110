@@ -16,6 +16,7 @@ The purpose of interface design is to digitize and flesh out what was developed 
 
 ### Link to Digitized Wireflow
 [Figma File](https://www.figma.com/file/ExqVTLKUcgsJIpf7WVvVoC/DH-110-Assignment-5-V3?node-id=0%3A1) with my digitized wireflow.
+[Figma File](https://www.figma.com/file/KKRwr9IdK6RdBEadkGIBIY/DH-110-Assignment-6?node-id=0%3A1) with my screen designs.
 
 ## Screen Interface Designs
 
