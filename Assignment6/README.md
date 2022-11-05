@@ -73,7 +73,7 @@ I then let her look at the figma file, and go through the homepage more thorough
 ### Feedback Integration
 After receiving feedback from my subject, I went back to my figma file and made some small changes based on her recommendations. I fixed the alignment and placement of my text to make it closer to the center, as well as choosing a new font that was more readable. Below is what the updated home page looks like.
 
-![image](https://github.com/hannaco/DH110/blob/main/Assignment6/impression_feedback.png)
+![image](https://github.com/hannaco/DH110/blob/main/Assignment6/feedback_integration.png)
 
 ## Accessibility + Contrast Check
 I checked the contrast between the text and the background using Color contrast, a Figma plugin. They all passed the accessibility test.
