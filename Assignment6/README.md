@@ -70,7 +70,7 @@ Below is the final screen design, in light mode, using IM FELL DW Pica and 6px r
 
 ### Layout & Spacing
 
-![image](https://github.com/hannaco/DH110/blob/main/Assignment6/layout_grid.png)
+![image](https://github.com/hannaco/DH110/blob/main/Assignment6/layout_final.png)
 
 ## Summary of why I made my design decisions
 
