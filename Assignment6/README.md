@@ -12,6 +12,7 @@ The purpose of interface design is to digitize and flesh out what was developed 
 
 
 ### Design Process
+I used my low fidelity prototype as a reference for my homepage. I began with a Macbook Air frame, as that's the laptop that I have. I laid out the components from my prototype, as well as extending the screen to include everything I wanted. I then decided on my color palette, using [coolors.co](https://coolors.co/palettes/trending) to help me pick a suitable color palette. I then made some variations in shape and typography to find a version that I liked. Finally, I created a dark mode version of the homepage.
 
 
 ### Link to Digitized Wireflow
