@@ -94,7 +94,7 @@ Below is the final screen design, in light mode, using Abel and 6px radius round
 
 ### Typography
 
-![image](https://github.com/hannaco/DH110/blob/main/Assignment6/typography_final.png)
+![image](https://github.com/hannaco/DH110/blob/main/Assignment6/typography_final_abel.png)
 
 ### Layout & Spacing
 
@@ -102,7 +102,7 @@ Below is the final screen design, in light mode, using Abel and 6px radius round
 
 ## Summary of why I made my design decisions
 
-**Typography:** As mentioned before, I went with IM FELL DW Pica because I felt that it was a good middle ground between playful and professional, while also being readable. I was simple and modern, yet it wasn't too clean cut.
+**Typography:** As mentioned before, I initally chose IM FELL DW Pica as my font, as I thought that it was suitable for my site. However, after conducting the impression test, I changed the font that was more simple and easy to read, without feeling too childish or complex.
 
 **Color Palette:** Being that this site is focused on sustainability, I thought it was natural to use green, as it evokes feelings of nature. I chose it other than other "natural colors" (such as blue, purple, etc.) because I wanted a calming feeling. I created both a light mode and dark mode, adjusting colors for more contrast.
 
