@@ -70,7 +70,10 @@ I then let her look at the figma file, and go through the homepage more thorough
 ### Things she would like to see
 - Being able to sign up for a mailing list would be nice
 
-### Summary
+### Feedback Integration
+After receiving feedback from my subject, I went back to my figma file and made some small changes based on her recommendations. I fixed the alignment and placement of my text to make it closer to the center, as well as choosing a new font that was more readable. Below is what the updated home page looks like.
+
+![image](https://github.com/hannaco/DH110/blob/main/Assignment6/impression_feedback.png)
 
 ## Accessibility + Contrast Check
 I checked the contrast between the text and the background using Color contrast, a Figma plugin. They all passed the accessibility test.
@@ -80,7 +83,7 @@ I checked the contrast between the text and the background using Color contrast,
 ## Final Screen Design & Design System
 
 ### Screen Design
-Below is the final screen design, in light mode, using IM FELL DW Pica and 6px radius rounded rectangles.
+Below is the final screen design, in light mode, using Abel and 6px radius rounded rectangles.
 
 ![image](https://github.com/hannaco/DH110/blob/main/Assignment6/homepage_final.png)
 
