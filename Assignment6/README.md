@@ -43,8 +43,32 @@ I created both a light mode and a dark mode for my design, although the colors u
 ![image](https://github.com/hannaco/DH110/blob/main/Assignment6/color_variations.png)
 
 ## Impression Testing
+[Link to audio recording](https://drive.google.com/file/d/1uIuZZBvD3Q4GR-xb_hUOwfgfp9RzLn8Q/view?usp=sharing)
 
-- transcript
+I showed my site to my subject, first conducting the 5-second test, showing her the site for five seconds and then asking for her first impression and anything she remembered or what stood out to her. The following are her intial thoughts on the site:
+
+### 5-second-test finding:
+- first image is prominent, and stands out
+- color palette is very cohesive
+- logo didn't really stand out
+
+I then let her look at the figma file, and go through the homepage more thoroughly. As she did this, I asked for her feedback on the typography, colors, and layout of the site, as well as anything that she would like to see as a user.
+
+### Color Palette
+- High image contrast which makes it stand out
+- Graphics are cohesive
+- Colors are suited for the topic
+
+### Layout
+- Text is not centered
+- Some elements should be closer to the center
+- Article titles should be centered, and less close to the edge
+
+### Typography
+- Can be hard to read when the font is smaller
+
+### Things she would like to see
+- Being able to sign up for a mailing list would be nice
 
 ### Summary
 
