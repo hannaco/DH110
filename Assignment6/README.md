@@ -104,6 +104,8 @@ Below is the final screen design, in light mode, using Abel and 6px radius round
 
 **Typography:** As mentioned before, I initally chose IM FELL DW Pica as my font, as I thought that it was suitable for my site. However, after conducting the impression test, I changed the font that was more simple and easy to read, without feeling too childish or complex.
 
+**Shapes:** Between the three options, I opted for the 6px radius rounded rectangle. I felt that 11px was too rounded and looked less professional, and that the leaf was too ambiguous and looked messy. In my opinion, giving a rectangle a 6px radius made it less harsh while still looking clean.
+
 **Color Palette:** Being that this site is focused on sustainability, I thought it was natural to use green, as it evokes feelings of nature. I chose it other than other "natural colors" (such as blue, purple, etc.) because I wanted a calming feeling. I created both a light mode and dark mode, adjusting colors for more contrast.
 
 **Layout:** Going off a blog's recommendation, I went with a 12 column grid with 24px gutters. I played around with the margins, considering how much information I wanted to include on each line, and chose 150px, as it allowed me to include everything I wanted without cluttering the site.
