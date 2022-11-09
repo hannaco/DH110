@@ -18,6 +18,7 @@ I used my low fidelity prototype as a reference for my homepage. I began with a 
 ### Link to Digitized Wireflow
 - [Figma File](https://www.figma.com/file/ExqVTLKUcgsJIpf7WVvVoC/DH-110-Assignment-5-V3?node-id=0%3A1) with my digitized wireflow.
 - [Figma File](https://www.figma.com/file/KKRwr9IdK6RdBEadkGIBIY/DH-110-Assignment-6?node-id=0%3A1) with my screen designs.
+- [Figma Prototype](https://www.figma.com/proto/KKRwr9IdK6RdBEadkGIBIY/DH-110-Assignment-6?node-id=24%3A674&scaling=scale-down&page-id=0%3A1)
 
 ## Screen Interface Designs
 
