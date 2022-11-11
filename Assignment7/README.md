@@ -35,8 +35,9 @@ The first iteration of my prototype can be accessed [here](https://www.figma.com
 ## Cognitive Walkthrough & Usability Tests
 
 ### Cognitive Walkthrough:
-[Access Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/15HXr6no3cgMHEjqRma5v7XQxy8vVqJVEQpGMI2l1gDA/edit?usp=sharing)
+[Access Cognitive Walkthrough Data](https://docs.google.com/spreadsheets/d/1nFgg-llrL1OLz7DFDanqqhAntGNfvC8nwv75LE-lSZs/edit?usp=sharing)
 
+The cognitive walkthrough went smoothly, and the testers were able to complete the tasks and navigate the site smoothly. They mostly had positive feedback, but one of my testers mentioned that it may not be intuitive for user the know where to look for games, or for the knowledge test. I did debate changing this, but my other tester had no problem with this, thus I chose to leave the site as it, as I felt that it was correctly categorized as learning activities.
 
 ### Usability Tests:
 [UT Video](https://drive.google.com/file/d/14xVOs3Z59G1sxIiKS0tIrc9Z2rJi9eCG/view?usp=sharing)
