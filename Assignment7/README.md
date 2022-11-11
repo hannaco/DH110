@@ -17,12 +17,20 @@ This interactive prototype supports 2 tasks:
 2. Finding ways that they can get involved in sustainability
 
 ## Wireflow w/ final interface design
+For clarity, I split up the wireflow by tasks.
 
-[Access Full Wireflow]()
+### Task 1 Wireflow
 
+![image](https://github.com/hannaco/DH110/blob/main/Assignment7/Task_1_Wireflow.png)
+
+### Task 2 Wireflow
+
+![image](https://github.com/hannaco/DH110/blob/main/Assignment7/Task_2_Wireflow.png)
+
+The full wireflow can be accessed [here](https://www.figma.com/file/4rT9E9P4oMUs3jBchIPTN9/DH-110-Assignment-7-Wireflows?node-id=0%3A1).
 
 ## Prototype 1 (1st Iteration):
-[Access Prototype 1]()
+The first iteration of my prototype can be accessed [here](https://www.figma.com/proto/MpXh0UckAMhi8G7RhVRBIo/DH-110-Assignment-7?node-id=9%3A1157&scaling=scale-down&page-id=0%3A1&starting-point-node-id=9%3A1157).
 
 ## Cognitive Walkthrough & Usability Tests
 
