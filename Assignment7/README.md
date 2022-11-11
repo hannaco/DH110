@@ -50,4 +50,6 @@ The usability test went very smoothly, and the subject was able to complete all 
 
 ## Prototype 2 (Revision):
 
-[Access Prototype 2]()
+After receiving feedback and contemplating ways to change my prototype, I ended up with my second iteration, which can be accessed [here](https://www.figma.com/proto/jJakv2pwkIPeGjFM7sfS5Z/DH-110-Assignment-7-V2?node-id=9%3A1157&scaling=scale-down&page-id=0%3A1&starting-point-node-id=9%3A1157).
+
+There were few revisions, as I had to weigh the pros and cons of integrating feeback. For example, one subject said the font was readable, while others thought that the font was perfect. Another said the site layout could be improved, while others stated that everything was clear and easy to use. In the end, I mostly went with the majority opinion, as I didn't want to disregard the feedback of the majority for one person's opinion, as that might end in a site that is only tailored for that one individual to use. The main change I made was adding dropdowns for the navigation menu, so that when the user hovered over them, a dropdown would appear. This allows the user to navigate the site easier. The change is reflected in the prototype, although due to the limitations of figma, the dropdowns only appear on the home page, but in development, these dropdowns would appear on any page the user was on.
