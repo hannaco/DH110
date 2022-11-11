@@ -39,7 +39,13 @@ The first iteration of my prototype can be accessed [here](https://www.figma.com
 
 
 ### Usability Tests:
-[UT Video]()
+[UT Video](https://drive.google.com/file/d/14xVOs3Z59G1sxIiKS0tIrc9Z2rJi9eCG/view?usp=sharing)
+
+The usability test went very smoothly, and the subject was able to complete all the tasks quickly, with minimal confusion, which is a good sign. The subject also indicated that the site appeared easy to use and trustworthy, and described it as "creative" and "impressive". Regardless, there are a couple things that the subject indicated could be improved.
+1. The font may be a little harder to read
+> This is conflicting, as my previous subject from the interface design stage indicated that this font was easy to read. Regardless, I tested out different fonts to see if there were others that would improve readability. Ultimately, I chose to remain with the same font, as other fonts were too complex, or were too difficult to read when the font was small.
+2. Having dropdown menus for the navigation bar would remove some confusion.
+> I added dropdown menus that appeared on hover.
 
 ## Prototype 2 (Revision):
 
