@@ -41,6 +41,8 @@ The first iteration of my prototype can be accessed [here](https://www.figma.com
 | Helen Quach | <ul><li>Leaves</li><li>Green color palette</li><li>Search bar</li><li>Sustainability theme</li></ul> | <ul><li>Sustainability</li><li>Learning about sustainability</li><li>How you can get involved with community</li></ul> | Educate yourself about sustainability, sustainable living | No | No there is no point where users may not understand | No the buttons are very obviously labeled | No there is a very clear flow | No | No | No | No |
 | Vicky Jen   | sustainability theme, some articles, ways to get involved | sustainability | learn sustainability, get involved with volunteer events | no | yes its very straight forward and clear | no, it is very self explanatory | no, the user can feel the progress being made | no | no | no | no |
 
+The cognitive walkthrough went smoothly, and the testers were able to complete the tasks and navigate the site smoothly. They mostly had positive feedback, with some minor feedback to add social media or icons. 
+
 ### Usability Tests:
 [UT Video](https://drive.google.com/file/d/14xVOs3Z59G1sxIiKS0tIrc9Z2rJi9eCG/view?usp=sharing)
 
