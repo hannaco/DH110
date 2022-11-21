@@ -50,6 +50,11 @@ The usability test went very smoothly, and the subject was able to complete all 
 1. The font may be a little harder to read
 > This is conflicting, as my previous subject from the interface design stage indicated that this font was easy to read. Regardless, I tested out different fonts to see if there were others that would improve readability. Ultimately, I chose to remain with the same font, as other fonts were too complex, or were too difficult to read when the font was small.
 2. Having dropdown menus for the navigation bar would remove some confusion.
-> I added dropdown menus that appeared on hover.
+> I opted to not add dropdown menus, due to changing my website from a desktop app to a mobile device website. Due to Figma constraints, it would not be possible to both show a dropdown and navigate on click, so I opted to not add the menus.
+
+Due to class feedback, I decided to convert my site to a mobile website.
 
 ## Prototype 2 (Revision):
+After receiving feedback and contemplating ways to change my prototype, I ended up with my second iteration, which can be accessed [here](https://www.figma.com/proto/Hc16Ebiid8NErJKXiNxJLh/DH-110-Assignment-7-V2?node-id=201%3A915&scaling=scale-down&page-id=0%3A1&starting-point-node-id=201%3A915).
+
+There were few revisions, as I had to weigh the pros and cons of integrating feedback. For example, one subject said the font was readable, while others thought that the font was perfect. Another said the site layout could be improved, while others stated that everything was clear and easy to use. In the end, I mostly went with the majority opinion, as I didn't want to disregard the feedback of the majority for one person's opinion, as that might end in a site that is only tailored for that one individual to use.
