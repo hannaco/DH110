@@ -35,7 +35,13 @@ The first iteration of my prototype can be accessed [here](https://www.figma.com
 ## Cognitive Walkthrough & Usability Tests
 
 ### Cognitive Walkthrough:
-[Access Cognitive Walkthrough Data]()
+
+| Tester Name | What do you see? | What do you think that web/app is about? | What do you think you can do with this web/app? | Any other comments? | Is there any point that the users may not understand what this screen(feedback) is about? | Is there any point that the users may not recognize where to click or select? | Is there any point that the users may feel lost and may not sure whether the progress is being made toward what they want to achieve? | Is there any point that the users would not know what to do the next step? | Is there any point that is not clear where to return or missing back-flow of cancel or exit? | Is there anything inconsistent, missing, or confusing? | Any other comments? |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Helen Quach | <ul><li>Leaves</li><li>Green color palette</li><li>Search bar</li><li>Sustainability theme</li></ul> | <ul><li>Sustainability</li><li>Learning about sustainability</li><li>How you can get involved with community</li></ul> | Educate yourself about sustainability, sustainable living | No | No there is no point where users may not understand | No the buttons are very obviously labeled | No there is a very clear flow | No | No | No | No |
+| Vicky Jen   | sustainability theme, some articles, ways to get involved | sustainability | learn sustainability, get involved with volunteer events | no | yes its very straight forward and clear | no, it is very self explanatory | no, the user can feel the progress being made | no | no | no | no |
+
+The cognitive walkthrough went smoothly, and the testers were able to complete the tasks and navigate the site smoothly. They mostly had positive feedback, with some minor feedback to add social media or icons. 
 
 ### Usability Tests:
 [UT Video](https://drive.google.com/file/d/14xVOs3Z59G1sxIiKS0tIrc9Z2rJi9eCG/view?usp=sharing)
@@ -44,6 +50,26 @@ The usability test went very smoothly, and the subject was able to complete all 
 1. The font may be a little harder to read
 > This is conflicting, as my previous subject from the interface design stage indicated that this font was easy to read. Regardless, I tested out different fonts to see if there were others that would improve readability. Ultimately, I chose to remain with the same font, as other fonts were too complex, or were too difficult to read when the font was small.
 2. Having dropdown menus for the navigation bar would remove some confusion.
-> I added dropdown menus that appeared on hover.
+> I opted to not add dropdown menus, due to changing my website from a desktop app to a mobile device website. Due to Figma constraints, it would not be possible to both show a dropdown and navigate on click, so I opted to not add the menus.
+
+Due to class feedback, I decided to convert my site to a mobile website.
 
 ## Prototype 2 (Revision):
+After receiving feedback and contemplating ways to change my prototype, I ended up with my second iteration, which can be accessed [here](https://www.figma.com/proto/Hc16Ebiid8NErJKXiNxJLh/DH-110-Assignment-7-V2?node-id=201%3A915&scaling=scale-down&page-id=0%3A1&starting-point-node-id=201%3A915).
+
+The revised wireflows are below.
+
+### Task 1 Wireflow
+
+![image](https://github.com/hannaco/DH110/blob/main/Assignment7/V2_Task1_Wireflow.png)
+
+### Task 2 Wireflow
+
+![image](https://github.com/hannaco/DH110/blob/main/Assignment7/V2_Task2_Wireflow.png)
+
+The full wireflow can be accessed [here](https://www.figma.com/file/WyrFaqtMoMEzAwClc1W9vD/DH-110-Assignment-7-V2-Wireflows?node-id=0%3A1&t=rPhiP0zUptUUgsR4-0).
+
+## Prototype 1 (1st Iteration):
+The first iteration of my prototype can be accessed [here](https://www.figma.com/proto/MpXh0UckAMhi8G7RhVRBIo/DH-110-Assignment-7?node-id=9%3A1157&scaling=scale-down&page-id=0%3A1&starting-point-node-id=9%3A1157).
+
+There were few revisions, as I had to weigh the pros and cons of integrating feedback. For example, one subject said the font was readable, while others thought that the font was perfect. Another said the site layout could be improved, while others stated that everything was clear and easy to use. In the end, I mostly went with the majority opinion, as I didn't want to disregard the feedback of the majority for one person's opinion, as that might end in a site that is only tailored for that one individual to use.
