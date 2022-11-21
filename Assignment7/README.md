@@ -69,7 +69,4 @@ The revised wireflows are below.
 
 The full wireflow can be accessed [here](https://www.figma.com/file/WyrFaqtMoMEzAwClc1W9vD/DH-110-Assignment-7-V2-Wireflows?node-id=0%3A1&t=rPhiP0zUptUUgsR4-0).
 
-## Prototype 1 (1st Iteration):
-The first iteration of my prototype can be accessed [here](https://www.figma.com/proto/MpXh0UckAMhi8G7RhVRBIo/DH-110-Assignment-7?node-id=9%3A1157&scaling=scale-down&page-id=0%3A1&starting-point-node-id=9%3A1157).
-
 There were few revisions, as I had to weigh the pros and cons of integrating feedback. For example, one subject said the font was readable, while others thought that the font was perfect. Another said the site layout could be improved, while others stated that everything was clear and easy to use. In the end, I mostly went with the majority opinion, as I didn't want to disregard the feedback of the majority for one person's opinion, as that might end in a site that is only tailored for that one individual to use.
